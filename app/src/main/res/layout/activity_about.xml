@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#C6EBEC">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About Developers:"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:layout_marginTop="90dp"
+        android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name:                  Mohammad Mahdi"
+        android:textSize="19sp"
+        android:textColor="@color/black"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="10dp"
+        android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Last Name:         Senator"
+        android:textSize="19sp"
+        android:layout_marginBottom="5dp"
+        android:textColor="@color/black"
+        android:textAlignment="center"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Father Name:      Gholam Ali"
+        android:textSize="19sp"
+        android:layout_marginBottom="5dp"
+        android:textColor="@color/black"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name:                  Abdulghafoor"
+        android:textSize="19sp"
+        android:textColor="@color/black"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="5dp"
+        android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Last Name:         Sultani"
+        android:textSize="19sp"
+        android:layout_marginBottom="5dp"
+        android:textColor="@color/black"
+        android:textAlignment="center"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Father Name:      Ghulam Hussain"
+        android:textSize="19sp"
+        android:layout_marginBottom="5dp"
+        android:textColor="@color/black"
+        android:textAlignment="center"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Organization:      Kabul university"
+        android:textSize="19sp"
+        android:layout_marginBottom="5dp"
+        android:textColor="@color/black"
+        android:layout_marginTop="40dp"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Faculty:                Computer Science"
+        android:textSize="19sp"
+        android:layout_marginBottom="5dp"
+        android:textColor="@color/black"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Department:       Information Systems"
+        android:textSize="19sp"
+        android:layout_marginBottom="5dp"
+        android:textColor="@color/black"
+        android:textAlignment="center"/>
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Class:                   Fifth Semester"
+        android:textSize="19sp"
+        android:layout_marginBottom="5dp"
+        android:textColor="@color/black"
+        android:textAlignment="center"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Date:                    March 20th, 2024"
+        android:textSize="19sp"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/black"
+        android:textAlignment="center"/>
+
+
+    <Button
+        android:id="@+id/backBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back" />
+
+
+</LinearLayout>
